@@ -1,4 +1,4 @@
-﻿# Sample for RestableCmdlets
+﻿# Sample for Dynamic Powershell
 
 ## Setup 
 You need the ClrPlus Dynamic Powershell support. You probably just want to use the
